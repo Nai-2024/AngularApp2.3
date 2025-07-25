@@ -1,3 +1,10 @@
+HEAD
 *.agdai
 MAlonzo/**
 node_modules
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+23a3a72dfbabc217834aba9b1912baff96f6c70a
